@@ -1,0 +1,16 @@
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\ApplicationCore\bin\Debug\net8.0\ApplicationCore.deps.json
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\ApplicationCore\bin\Debug\net8.0\ApplicationCore.dll
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\ApplicationCore\bin\Debug\net8.0\ApplicationCore.pdb
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\ApplicationCore\bin\Debug\net8.0\BlazorShared.dll
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\ApplicationCore\bin\Debug\net8.0\BlazorShared.pdb
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\ApplicationCore\obj\Debug\net8.0\ApplicationCore.csproj.AssemblyReference.cache
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\ApplicationCore\obj\Debug\net8.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfoInputs.cache
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfo.cs
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\ApplicationCore\obj\Debug\net8.0\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\ApplicationCore\obj\Debug\net8.0\ApplicationCore.sourcelink.json
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\ApplicationCore\obj\Debug\net8.0\Applicat.71DDEAC9.Up2Date
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\ApplicationCore\obj\Debug\net8.0\ApplicationCore.dll
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\ApplicationCore\obj\Debug\net8.0\refint\ApplicationCore.dll
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\ApplicationCore\obj\Debug\net8.0\ApplicationCore.pdb
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\ApplicationCore\obj\Debug\net8.0\ref\ApplicationCore.dll
