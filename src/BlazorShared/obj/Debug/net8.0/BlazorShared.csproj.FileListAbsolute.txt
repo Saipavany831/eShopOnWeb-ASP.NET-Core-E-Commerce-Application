@@ -1,0 +1,13 @@
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\BlazorShared\bin\Debug\net8.0\BlazorShared.deps.json
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\BlazorShared\bin\Debug\net8.0\BlazorShared.dll
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\BlazorShared\bin\Debug\net8.0\BlazorShared.pdb
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\BlazorShared\obj\Debug\net8.0\BlazorShared.csproj.AssemblyReference.cache
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\BlazorShared\obj\Debug\net8.0\BlazorShared.GeneratedMSBuildEditorConfig.editorconfig
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\BlazorShared\obj\Debug\net8.0\BlazorShared.AssemblyInfoInputs.cache
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\BlazorShared\obj\Debug\net8.0\BlazorShared.AssemblyInfo.cs
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\BlazorShared\obj\Debug\net8.0\BlazorShared.csproj.CoreCompileInputs.cache
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\BlazorShared\obj\Debug\net8.0\BlazorShared.sourcelink.json
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\BlazorShared\obj\Debug\net8.0\BlazorShared.dll
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\BlazorShared\obj\Debug\net8.0\refint\BlazorShared.dll
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\BlazorShared\obj\Debug\net8.0\BlazorShared.pdb
+D:\HARSHITHA_PROJECTS\DotNet_Developer\src\BlazorShared\obj\Debug\net8.0\ref\BlazorShared.dll
